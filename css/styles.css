@@ -235,7 +235,7 @@ body{
     cursor: pointer;
 }
 .modal-gallery #imgModal{
-    width:60%;
+    width:100%;
     margin:auto;
     display: block;
     height: 400px;
