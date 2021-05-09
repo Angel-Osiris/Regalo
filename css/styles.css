@@ -246,7 +246,7 @@ position: relative;
 	
 	
     margin:auto;
-    object-fit: contain;
+    object-fit: cover;
 }
 .modal-gallery .captionModal{
      color:#fff;
