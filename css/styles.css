@@ -236,7 +236,16 @@ body{
     cursor: pointer;
 }
 .modal-gallery #imgModal{
-    width:60%;
+    
+	
+position: relative;
+    width: 100%;
+    height: 200vh;
+
+
+	
+	
+	
     margin:auto;
     display: block;
     height: 400px;
