@@ -225,7 +225,7 @@ body{
     width: 100%;
     height: 100%;
     background:rgba(0,0,0,0.9);
-    padding:10px;
+    padding:40px;
     z-index: 99999;
     display: none;
 }
@@ -240,9 +240,9 @@ body{
 .modal-gallery #imgModal{
     
 	
-    width: 100%;
-    height: 100%	
-	
+    width: 60%;
+    height: 100%;
+	display: block;
 	
     margin:auto;
     object-fit: cover;
