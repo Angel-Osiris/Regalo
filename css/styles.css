@@ -244,8 +244,7 @@ position: relative;
 	
 	
     margin:auto;
-    display: block;
-    height: 400px;
+    display: flex;
     object-fit: cover;
 }
 .modal-gallery .captionModal{
