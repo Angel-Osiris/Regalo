@@ -219,7 +219,7 @@ body{
 
 /** Modal Gallery **/
 .modal-gallery{
-    position: contain;
+    position: fixed;
     top:0;
     left:0;
     width: 100%;
